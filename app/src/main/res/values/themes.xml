@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Soon" parent="Theme.Material3.Light.NoActionBar"/>
+
+    <style name="Theme.Soon" parent="Base.Theme.Soon" />
+
+    <style name="CustomAlertDialogThemeAlex" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="android:shadowColor">@color/background_tint</item>
+        <item name="android:elevation">10dp</item>
+    </style>
+
+</resources>
