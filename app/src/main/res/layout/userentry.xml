@@ -141,19 +141,18 @@
                 android:textSize="24sp" />
 
             <LinearLayout
-                android:layout_width="40dp"
+                android:layout_width="80dp"
                 android:layout_height="40dp"
                 android:gravity="center"
                 android:orientation="horizontal">
 
-                <Button
-                    android:id="@+id/btn_edit"
+                <TextView
+                    android:id="@+id/tv_count"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:minWidth="0dp"
                     android:minHeight="0dp"
                     android:padding="0dp"
-                    android:text="Edit"
                     android:textStyle="italic" />
 
             </LinearLayout>

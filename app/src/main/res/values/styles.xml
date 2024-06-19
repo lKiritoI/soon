@@ -3,6 +3,7 @@
 
     <style name="CustomAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
         <item name="android:windowBackground">@drawable/rounded_corners_background</item>
+        <item name="android:textColor">@android:color/black</item>
     </style>
 
 </resources>
